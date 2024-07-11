@@ -2,7 +2,7 @@
 ftp server and client with multithreading in c++
 
 # Installation
-make --> to build
+make --> to build  
 make clean --> to clean up after usage
 
 # Usage
