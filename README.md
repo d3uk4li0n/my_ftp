@@ -1,5 +1,5 @@
 # my_ftp
-ftp server and client with multithreading in c++
+ftp server and client with multithreading in C++
 
 # Installation
 make --> to build  
